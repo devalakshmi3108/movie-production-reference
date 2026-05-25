@@ -1,0 +1,6 @@
+{
+  "name": "Cinema Prestige",
+  "description": "A high-fidelity immersive web application for Cinema Prestige featuring active film productions, futuristic rendering labs, and upcoming movie protocols.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
